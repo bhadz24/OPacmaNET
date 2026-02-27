@@ -1,0 +1,14 @@
+# OPacmaNET 🎮
+
+A Pac-Man game with OPNET branding.
+
+- 🪙 **You** = OPNET logo
+- 💊 **Ghosts** = Orange pills
+- ₿ **Power-ups** = Bitcoin coins
+
+## Play it
+👉 https://bhadz24.github.io/opacmanet/
+
+## Controls
+- Arrow keys or WASD to move
+- Enter to start/restart
