@@ -7,7 +7,7 @@ A Pac-Man game with OPNET branding.
 - ₿ **Power-ups** = Bitcoin coins
 
 ## Play it
-👉 https://github.com/bhadz24/OPacmaNET.git
+👉 https://github.com/bhadz24/OPacmaNET
 
 ## Controls
 - Arrow keys or WASD to move
